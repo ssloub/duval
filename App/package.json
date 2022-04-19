@@ -4,12 +4,12 @@
     "express": "^4.17.3"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node pentagon1.js"
   },
-  "name": "duvaltriangle",
+  "name": "duvaldga",
   "version": "0.0.1",
-  "description": "A Duval Triangle generating service",
-  "main": "server.js",
+  "description": "Duval Triangle and Pentagon for Dissolved Gas Analysis",
+  "main": "pentagon1.js",
   "author": "",
   "license": "MIT"
 }
