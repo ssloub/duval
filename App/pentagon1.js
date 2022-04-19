@@ -278,7 +278,7 @@ function initCanvas() {
     function getXYGraph(h2, c2h6, ch4, c2h4, c2h2) {
         var total = h2 + c2h6 + ch4 + c2h4 + c2h2;
         var h2_norm = 100*(h2 / total);
-        var c2h6_norm = 100*(c2h2 / total);
+        var c2h6_norm = 100*(c2h6 / total);
         var ch4_norm = 100*(ch4 / total);
         var c2h4_norm = 100*(c2h4 / total);
         var c2h2_norm = 100*(c2h2 / total);
